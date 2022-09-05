@@ -2,3 +2,12 @@ header {
     text-align: center;
     background-color: aqua;
 }
+main {
+    float: left;
+}
+article {
+    float: left;
+}
+footer {
+    clear: both;
+}
