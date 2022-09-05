@@ -8,13 +8,19 @@ header {
 main {
     float: left;
     font-family: "Comic Sans MS";
+    background-color: aquamarine;
+    color: blueviolet;
 }
 section {
     float: left;
 }
 article {
     float: right;
+    background-color: azure;
+    color: black;
 }
 footer {
     clear: both;
+    background-color: burlywood;
+    color: black;
 }
