@@ -9,8 +9,11 @@ main {
     float: left;
     font-family: "Comic Sans MS";
 }
-article {
+section {
     float: left;
+}
+article {
+    float: right;
 }
 footer {
     clear: both;
